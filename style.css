@@ -1,0 +1,22 @@
+.homePage {
+  background-color: rgba(0, 128, 0, 0.479);
+  position: relative;
+  left: 100px;
+  top: 100px;
+  width: 500px;
+  height: 400px;
+}
+
+.homePage #kid {
+  position: absolute;
+  background-color: #923030;
+  width: 250px;
+  height: 50px;
+  left: 50px;
+  top: 50px;
+}
+
+.homePage #kid li {
+  display: inline;
+}
+/*# sourceMappingURL=style.css.map */
